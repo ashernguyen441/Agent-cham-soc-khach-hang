@@ -4,7 +4,7 @@
 
 ---
 
-## 📂 1. Nguồn Dữ Liệu Giả Lập (Data Source)
+## 📂 1. Nguồn Dữ Liệu Giả Lập (Data Source):
 Dự án sử dụng dữ liệu hoàn toàn giả lập để phục vụ thử nghiệm:
 * **Danh mục sản phẩm:** Tên, giá, thông số, tồn kho.
 * **Chính sách cửa hàng:** Quy định đổi trả, bảo hành, vận chuyển.
