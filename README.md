@@ -14,7 +14,7 @@ Dự án sử dụng dữ liệu hoàn toàn giả lập để phục vụ thử
 
 ---
 
-## 🚀 2. Hướng Dẫn Cách Chạy Dự Án Dưới 15 phút:
+## 🚀 2. Hướng Dẫn Cách Chạy Dự Án Dưới 15 Phút:
 1. **Truy cập ứng dụng:** Mở đường link giao diện chat của Agent tại đây: `[Dán link Google AI Studio vào đây]`
 2. **Khởi tạo hội thoại:** Nhắn tin chào hỏi Agent (Agent sẽ tự động xưng hô lịch sự "anh/chị" theo cấu hình System Instruction).
 3. **Thử nghiệm tra cứu đơn hàng (Nâng cao):** 
